@@ -19,7 +19,7 @@ io.on("connection", (socket) => {
 
 // client-side
 socket.on("hello", (arg) => {
-  console.log(arg); // world
+  console.log(ar); // world
 });
 ```
 
